@@ -5,8 +5,8 @@ function checkPassword() {
     // Substitua "suaSenha" pela senha desejada
     var senhaCorreta = "c0m3t0u5";
     if (passwordInput === senhaCorreta) {
-        // Redirecionar para a área restrita
-        window.location.href = "area_restrita.html";
+        // Redirecionar para scratch
+        window.location.href = "https://scratch.mit.edu/projects/928673513";
     } else {
         errorMessage.textContent = "Senha incorreta. Tente novamente.";
     }
