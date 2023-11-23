@@ -1,17 +1,23 @@
+}
+
 body {
     font-family: Arial, sans-serif;
+     text-decoration-color: #fff
     margin: 0;
     padding: 0;
 }
 
 header {
     background-color: #000000;
-    color: #fff;
-    text-align: center;
+    color: #050505;
+    text-align: bottom;
     padding: 1em;
 }
 
 main {
+ background-color: #000000;
+    color: #fff;
+    text-align: top;
     padding: 2em;
 }
 
