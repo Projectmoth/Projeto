@@ -6,7 +6,7 @@ function checkPassword() {
     var senhaCorreta = "c0m3t0u5";
     if (passwordInput === senhaCorreta) {
         // Redirecionar para scratch
-        window.location.href = "https://scratch.mit.edu/projects/928673513";
+        window.location.href = "https://drive.google.com/file/d/1TF3mxntdMeWaoafySZFfIVxBzMyivfvz/view?usp=drivesdk";
     } else {
         errorMessage.textContent = "Senha incorreta. Tente novamente.";
     }
