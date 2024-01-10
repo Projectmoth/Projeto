@@ -21,13 +21,3 @@ main {
     text-align: center;
     padding: 2em;
 }
-
-footer {
-    background-color: #ffffff;
-    color: #000000;
-    text-align: center;
-    padding: 1em;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
