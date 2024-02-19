@@ -6,7 +6,7 @@ function checkPassword() {
     var senhaCorreta = "orangetrump";
     if (passwordInput === senhaCorreta) {
         // Redirecionar para scratch
-        window.location.href = "https://youtube.com/shorts/rxKhtJaBtQA?si=tAAEvNeAjHrYwBRT";
+        window.location.href = "<a href="button.html">Ir para página 2</a>";
     } else {
         errorMessage.textContent = "Senha incorreta. Tente novamente.";
     }
