@@ -26,7 +26,7 @@ footer {
     padding: 2em;
 }
 body {
-    background-image: url('/storage/emulated/0/Download/images (13).jpeg');
+    background-image: url('images (13).jpeg');
     background-repeat: no-repeat;
     background-size: cover; /* Isso faz com que a imagem cubra todo o espaço disponível */
 }
