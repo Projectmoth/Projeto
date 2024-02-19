@@ -1,26 +1,32 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
-     text-decoration-color: #fff
-    margin: 0;
+    font-family: 'times new roman', serif;
+     text-decoration-color: fff;
+     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #ffffff;
+    background-color: ;
     color: #000000;
     text-align: center;
-    padding: 1em;
+    padding: 3em;
 }
-
 main {
- background-color: #ffffff;
-    color: #000000;
-    text-align: bottom;
-    padding: 2em;
+ background-color: ;
+    color: #fff;
+    text-align: center;
+    padding: 0em;
 }
 footer {
-    background-color: #ffffff;
-    color: #000000;
-    text-align: top;
+    background-color: ;
+    color: #fff;
+    text-align: center;
+    padding: 2em;
+}
+body {
+    background-image: url('/storage/emulated/0/Download/images (13).jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; /* Isso faz com que a imagem cubra todo o espaço disponível */
+}
