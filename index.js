@@ -3,7 +3,7 @@ function checkPassword() {
     var errorMessage = document.getElementById("errorMessage");
 
     // Substitua "suaSenha" pela senha desejada
-    var senhaCorreta = "04012024";
+    var senhaCorreta = "orangetrump";
     if (passwordInput === senhaCorreta) {
         // Redirecionar para scratch
         window.location.href = "https://youtube.com/shorts/rxKhtJaBtQA?si=tAAEvNeAjHrYwBRT";
